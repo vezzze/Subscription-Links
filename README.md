@@ -1044,13 +1044,12 @@ https://rss.cnrss.xyz/link/Rcr8h8fvZIWE001U?mu=2
 https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
-
-	◦	http://qe83xk711.sabkt.gdipper.com/freess.txt
-	◦	https://sub1.m87sub.xyz/link/pZDgnxhgL6Poh1GQ?sub=1
-	◦	https://s.sublank.xyz/subscribe/66056/0yzuMVawjpr/ssr/
-	◦	https://12o.ooo/link/JLisT80gOhRkiFnX?sub=1
-	◦	https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Sub.txt
-	◦	https://rss.cnrss.xyz/link/Rcr8h8fvZIWE001U?mu=2
-	◦	https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
-	◦	https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-	◦	https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
+http://qe83xk711.sabkt.gdipper.com/freess.txt
+https://sub1.m87sub.xyz/link/pZDgnxhgL6Poh1GQ?sub=1
+https://s.sublank.xyz/subscribe/66056/0yzuMVawjpr/ssr/
+https://12o.ooo/link/JLisT80gOhRkiFnX?sub=1
+https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Sub.txt
+https://rss.cnrss.xyz/link/Rcr8h8fvZIWE001U?mu=2
+https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
