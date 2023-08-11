@@ -1,18 +1,18 @@
 Subscription Links
 
-	•	NodeFree: https://nodefree.org/dy/2023/08/20230806.yaml 
-	•	ClashNode: https://clashnode.com/wp-content/uploads/2023/08/20230806.yaml 
-	•	NiceVPN: https://sub.nicevpn.top/Clash.yaml 
-	•	Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
-	•	Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml 
-	•	Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/2023/master/0804clash.yml
-	•	Oslook: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
-	•	Ermaozi: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml 
-	•	Learnhard-cn: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
-	•	Tbbatbb: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
-	•	Vveg26: https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
-	•	OpenRunner: https://raw.githubusercontent.com/openrunner/clash-freenode/main/clash.yaml 
-	•	Xrayfree: https://tt.vg/freeclash
+NodeFree: https://nodefree.org/dy/2023/08/20230806.yaml 
+ClashNode: https://clashnode.com/wp-content/uploads/2023/08/20230806.yaml 
+NiceVPN: https://sub.nicevpn.top/Clash.yaml 
+Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml 
+Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/2023/master/0804clash.yml
+Oslook: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
+Ermaozi: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml 
+Learnhard-cn: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
+Tbbatbb: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+Vveg26: https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
+OpenRunner: https://raw.githubusercontent.com/openrunner/clash-freenode/main/clash.yaml 
+Xrayfree: https://tt.vg/freeclash
 
 SUB POOL  *
 	◦	 Zu1k: https://github.com/zu1k/proxypool 
@@ -40,13 +40,13 @@ https://proxypool1999.banyunxiaoxi.icu/clash/proxies
 https://rvorch.treze.cc/clash/proxies
 
 # forks
-	✓	https://raw.githubusercontent.com/gtang8/SubCrawler/main/sub/share/all
-	✓	https://raw.githubusercontent.com/zzz6839/SubCrawler/main/sub/share/all
-	✓	https://raw.githubusercontent.com/zjfb/SubCrawler/main/sub/share/all
-	✓	https://raw.githubusercontent.com/QQnight/SubCrawler/main/sub/share/all
-	✓	https://raw.githubusercontent.com/saligiatang/SubCrawler/main/sub/share/all
-	✓	https://raw.githubusercontent.com/zhangkaiitugithub/SubCrawler/main/sub/share/all
-	✓	https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt
+https://raw.githubusercontent.com/gtang8/SubCrawler/main/sub/share/all
+https://raw.githubusercontent.com/zzz6839/SubCrawler/main/sub/share/all
+https://raw.githubusercontent.com/zjfb/SubCrawler/main/sub/share/all
+https://raw.githubusercontent.com/QQnight/SubCrawler/main/sub/share/all
+https://raw.githubusercontent.com/saligiatang/SubCrawler/main/sub/share/all
+https://raw.githubusercontent.com/zhangkaiitugithub/SubCrawler/main/sub/share/all
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt
 
 sub links
 	◦	http://123.lcq25938.top:9080/clash/proxies
