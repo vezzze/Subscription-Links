@@ -15,7 +15,7 @@ https://nodefree.org/dy/2023/08/20230806.yaml
  https://tt.vg/freeclash 
 
 SUB POOL  
-	 Zu1k: https://github.com/zu1k/proxypool 
+ Zu1k: https://github.com/zu1k/proxypool 
 https://raw.githubusercontent.com/Leon406/jsdelivr/master/subscribe/sub.txt
 https://raw.githubusercontent.com/Leon406/jsdelivr/master/subscribe/subpool2
 
